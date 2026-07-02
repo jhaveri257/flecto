@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./aioquic/src/aioquic/quic/congestion",
+        "./data_collection"
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:system"
+}
