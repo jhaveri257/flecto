@@ -1,0 +1,8 @@
+Metric,Static TCP,Static FC,Adaptive Controller
+Avg Reward,0.824,0.893,0.893
+Avg Latency,33.94,27.65,26.10
+Avg Packet Loss,0.0009,0.0145,0.0117
+Avg Success Rate,1.0000,1.0000,1.0000
+Switch Freq,0.0,0.0,0.032
+TCP Usage %,100%,0%,1.6%
+FC Usage %,0%,100%,98.4%
