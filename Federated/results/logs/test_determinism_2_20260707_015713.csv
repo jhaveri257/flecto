@@ -1,0 +1,4 @@
+round_idx,val_accuracy,val_loss,train_loss,local_accuracy,comm_bytes_total,avg_compression_ratio,avg_reconstruction_error,aggregated_delta_norm,round_time_s,agg_time_s,avg_recon_time_s,num_sampled_clients,num_successful_clients
+0,0.085000,2.324466,2.254100,0.276000,656360,0.099995,0.675077,0.097421,0.6599,0.0024,0.0008,5,5
+1,0.090000,2.318364,2.231832,0.384000,656360,0.099995,0.770131,0.116707,0.8196,0.0028,0.0010,5,5
+2,0.090000,2.314417,2.211274,0.460000,656360,0.099995,0.787746,0.139042,0.9081,0.0021,0.0008,5,5

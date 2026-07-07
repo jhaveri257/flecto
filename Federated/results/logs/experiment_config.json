@@ -1,0 +1,13 @@
+{
+    "timestamp": "20260708_013600",
+    "num_runs": 1,
+    "base_seed": 42,
+    "eval_rounds": 20,
+    "num_clients": 10,
+    "batch_size": 32,
+    "modes_evaluated": [
+        "Full Update",
+        "Top-K (10%)",
+        "Top-K + Error Feedback"
+    ]
+}
